@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My name is Jayden Lie
 
 - 🌱 I’m currently learning Linux kernel and Golang
 
