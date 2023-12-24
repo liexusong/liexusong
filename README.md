@@ -1,4 +1,4 @@
-### Hi there 👋
+### 关注公众号：Linux内核那些事 👋
 
 My name is Jayden Lie
 
